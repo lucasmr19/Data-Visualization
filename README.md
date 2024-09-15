@@ -3,7 +3,7 @@
 This repository covers various topics related to data visualization techniques and methodologies, including graphs, spatial data, and interactive visualizations.
 
 ## Table of Contents
-1. **Introduction to Data Visualization and Graphs**
+1. [**Introduction to Data Visualization and Graphs**](https://github.com/lucasmr19/Data-Visualization/tree/main/Introduction%20to%20Data%20Visualization%20and%20Graphs)
    - Overview of basic data visualization principles
    - Types of charts and graphs
 
